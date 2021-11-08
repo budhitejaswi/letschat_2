@@ -1,0 +1,59 @@
+.body_background 
+{
+    background: rgb(54,90,105);
+    background: linear-gradient(0deg, rgba(54,90,105,1) 0%, rgba(155,189,244,1) 100%);
+}
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+body{
+    text-align: center;
+}
+
+#logout
+{
+	font-size: 20px; float: right;
+    word-spacing: 2px;;
+}
+
+
+#output
+{
+	padding: 10px; 
+    width:80%;
+    background: rgba(189, 187, 187, 0.8);
+    border-radius: 15px;
+}
+
+#logo{
+    width:300px;
+}
+
+h1{
+    color:rgb(66, 111, 112);
+    text-shadow: 1px 1px white;
+    font-family: fantasy;
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(174, 157, 236);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+h2{
+    font-family: 'Fruktur', cursive;
+    text-shadow: 1px 1px rgb(240, 247, 150);
+
+}
+h3{
+    font-size: 27px;
+    color:antiquewhite;
+    text-shadow: 1px 3px black;
+    font-family: cursive;
+}
+label {
+    font-size: 18px;
+  
+}

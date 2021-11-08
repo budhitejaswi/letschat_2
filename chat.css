@@ -1,0 +1,43 @@
+.body_background {
+     background: linear-gradient(to top, #9900cc 0%, #ff66ff 100% ) no-repeat !important;
+}
+body{
+    text-align: center;
+}
+#chatimg {
+    width: 300px;
+    height: 300px;
+}
+
+h1 {
+    color:rgb(66, 111, 112);
+    text-shadow: 1px 1px white;
+    font-family: fantasy;
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(174, 157, 236);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#login_button {
+
+   width: 120px;
+}
+#user_name{
+    
+width: 60%;
+margin-left: 250px;
+}
+
+h2{
+    font-family: 'Fruktur', cursive;
+    text-shadow: 1px 1px rgb(240, 247, 150);
+
+}
+h3{
+    font-size: 27px;
+    color:antiquewhite;
+    text-shadow: 1px 3px black;
+    font-family: cursive;
+}
